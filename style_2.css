@@ -97,7 +97,7 @@
       #link {
         color: whitesmoke;
       }
-      /* blog */
+     /*-------------------------------- blog------------------------------------- */
       .blog-1{
         width: 80%;
         display: flex;
@@ -148,7 +148,7 @@
       .blog-details-2 p {
         margin-left: 10px;
       }
-      /* footer */
+      /*-------------------------------- footer------------------------------------- */
       footer{
         background-color: #161616;
       }
@@ -190,7 +190,7 @@
         margin: 0 8px;
     }
 }
-/* ipad */
+/*-------------------------------- ipad------------------------------------- */
 @media only screen and (min-width: 651px) and (max-width: 991px) {
     * {
         margin: 0;
@@ -258,7 +258,7 @@
       margin-right: 17px;
     }
     
-     /* body-1 part start */
+    /*-------------------------------- body------------------------------------- */
   
      .body-1 {
       width: 1145px;
@@ -363,21 +363,6 @@
     .blog-details-2 p {
       margin-left: 10px;
     }
-  
-    .btn-3 {
-      background-color: #dd0000;
-      display: flex;
-      color: #fff;
-      justify-content: center;
-      border: none;
-      border-radius: 10px;
-      box-shadow: 1px 1px 4px 2px rgb(122, 122, 122);
-      font-size: 1.2em;
-      align-items: center;
-      width: 15%;
-      height: 50px;
-      margin: 0 auto;
-    }
   /*-------------------------------- footer------------------------------------- */
   
   footer{
@@ -424,7 +409,7 @@
       margin: 0 8px;
   }
   }
-  /* mobile */
+  /*-------------------------------- mobile------------------------------------- */
 
   @media only screen and (min-width:  360px) and (max-width: 640px) {
   body{
@@ -470,7 +455,7 @@
 .first-img img{
     height: 420px;
 }
- /* Body part */
+ /*-------------------------------- body------------------------------------- */
  
  .body-1 {
   width: 100%;
@@ -551,9 +536,6 @@
   border-radius: 7px;
   margin-bottom: 10px;
 }
-.btn-3 {
-  display: none;
-}
 .para {
   margin-left: 30px;
   margin-bottom: 15px;
@@ -570,23 +552,7 @@
 }
 .blog-details-2 p {
   margin-left: 10px;
-}
-
-.btn-3 {
-  background-color: green;
-  display: flex;
-  color: #fff;
-  justify-content: center;
-  border: none;
-  border-radius: 10px;
-  box-shadow: 1px 1px 4px 2px rgb(122, 122, 122);
-  font-size: 1.2em;
-  align-items: center;
-  width: 15%;
-  height: 50px;
-  margin: 0 auto;
-}
-  
+}  
 /*-------------------------------- footer------------------------------------- */
 
 footer{
