@@ -509,13 +509,16 @@
   color: black;
   padding: 20px;
 }
-#first:hover{
-    background-color: salmon;
-  }
+#first{
+    background-color: #dd0000;
+}
+
 #third {
-  background-color: #dd0000;
   color: whitesmoke;
 }
+#third:hover{
+    background-color: sandybrown;
+  }
 #link {
   color: whitesmoke;
 }
@@ -633,8 +636,3 @@ hr{
     margin: 0 8px;
 }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
