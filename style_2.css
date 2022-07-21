@@ -176,18 +176,19 @@
     border-radius: 20px;
     width: 80%;
     height: 500px;
+    margin-left: 30px;
   }
   .details{
       color: white;
   }
   .details-h1{
-      font-weight: 700;
-      font-size: 50px;
+      font-weight: 600;
+      font-size: 30px;
       line-height: 80px;
-      padding: 50px 200px 0px 125px;
+      padding: 50px 100px 0px 100px;
   }
   .details-para{
-      padding: 0px 200px 0px 130px;
+      padding: 0px 100px 0px 130px;
   }
   .button{
       background-color: yellowgreen;
@@ -197,7 +198,7 @@
       color: white;
       display: inline-block;
       font-size: 20px;
-      margin: 20px 120px;
+      margin: 20px 70px;
       border-radius: 5px;
   }
   .button:hover{
